@@ -20,4 +20,5 @@ You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuap
 
 
 **👓Tech Stack**
+
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/fatihyildizli/base)
