@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**fatihyildizli/fatihyildizli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I am a software engineer from Turkey. 
+Taking role of a backend developer with high level of responsibility for custom Search Engine and Information Retrieval  at   <img src="https://cdn.fing.io/images/isp/TR/logo/turkcell_logo.png" width="20" height="20" /> Turkcell Technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤔 I’m currently working on web browser/application working mechanism,  custom web bot , competitor analysis and  custom web spiders. 
+
+
+
+
+💎 My hobby project is written with java & reactjs. 
+
+You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuapp.com/)
+
+**📫 How to reach me:** 
+
+[![Medium Badge](https://img.shields.io/badge/-@fatih_yildizli-black?style=flat-square&labelColor=white&logo=medium&logoColor=black&link=https://medium.com/@fatih_yildizli)](https://medium.com/@fatih_yildizli) [![Linkedin Badge](https://img.shields.io/badge/-fyildizli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fyildizli/)](https://www.linkedin.com/in/fyildizli/) 
+
+
+**👓Tech Stack**
+![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech.PNG?raw=true)
+![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech1.PNG?raw=true)
+![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech2.PNG?raw=true)
+![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech3.PNG?raw=true)
