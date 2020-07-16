@@ -20,7 +20,4 @@ You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuap
 
 
 **👓Tech Stack**
-![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech.PNG?raw=true)
-![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech1.PNG?raw=true)
-![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech2.PNG?raw=true)
-![techstack](https://github.com/fatihyildizli/fatihyildizli.github.io/blob/master/img/stack/tech3.PNG?raw=true)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/fatihyildizli/base)
