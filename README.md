@@ -5,7 +5,7 @@ Taking role of a backend developer with high level of responsibility for custom 
 
 
 
-🤔 I’m currently working on web browser/application working mechanism,  custom web bot , competitor analysis and  custom web spiders / crawlers. 
+🤔 I’m currently working on web browser/application working mechanism,  custom web bot and custom web spiders / crawlers. 
 
 
 
