@@ -32,5 +32,5 @@ You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuap
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true"><img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true"><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" style="max-width:100%;"></a>
 </p>
-<p align="center">  <a target="_blank" rel="noopener noreferrer" href="hhttps://stackshare.io/fatihyildizli/base"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" height="32" style="max-width:100%;"></a> </p>
+<p align="center">  <a target="_blank" rel="noopener noreferrer" href="https://stackshare.io/fatihyildizli/base"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" height="32" style="max-width:100%;"></a> </p>
 
