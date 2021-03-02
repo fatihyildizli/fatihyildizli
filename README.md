@@ -20,21 +20,5 @@ You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuap
 </p>
  
 <hr></hr>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/spring-boot/spring-boot.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/spring-boot/spring-boot.png?raw=true" height="32" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/java/java.png?raw=true" height="32" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/dotnet/dotnet.png?raw=true" height="32" style="max-width:100%;"></a>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/flask/flask.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/flask/flask.png?raw=true" height="32" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true"><img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/elasticsearch/elasticsearch.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/elasticsearch/elasticsearch.png?raw=true" height="32" style="max-width:100%;"></a>
-     <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/cassandra/cassandra.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/cassandra/cassandra.png?raw=true" height="32" style="max-width:100%;"></a>
-     <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/heroku/heroku.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png?raw=true" height="32" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/docker/docker.png?raw=true" height="32" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true"><img src="https://github.com/github/explore/raw/master/topics/git/git.png?raw=true" height="32" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true"><img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true"><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" style="max-width:100%;"></a>
-</p>
+
 <p align="center">  <a target="_blank" rel="noopener noreferrer" href="https://stackshare.io/fatihyildizli/base"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" height="32" style="max-width:100%;"></a>  </p>
-
-![](https://komarev.com/ghpvc/?username=fatihyildizli&color=green)
-
