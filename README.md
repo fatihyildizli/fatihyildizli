@@ -1,4 +1,4 @@
-<p align="center"> <samp> Software Developer at  <img src="https://cdn.fing.io/images/isp/TR/logo/turkcell_logo.png" width="20" height="20" /> Turkcell Technology. | Custom Search Engine &amp; Information Retrieval | .net & Java </samp></p>
+<p align="center"> <samp> Expert Software Developer at  <img src="https://cdn.fing.io/images/isp/TR/logo/turkcell_logo.png" width="20" height="20" /> Turkcell Technology. | Custom Search Engine &amp; Information Retrieval | .net & Java </samp></p>
 <br> 
 
 <i><b>About me</b></i>
