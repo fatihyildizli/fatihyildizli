@@ -9,7 +9,7 @@
 
 💎 My hobby project is written with java & reactjs. 
 
-You can access on  [https://fycrawler.herokuapp.com/](https://fycrawler.herokuapp.com/)
+You can access on  [https://fy-crawler.herokuapp.com/](https://fy-crawler.herokuapp.com/)
 <br>
 <p align="center">
 <a href="https://medium.com/@fatih_yildizli" rel="nofollow"><img height="26" src="https://img.shields.io/badge/-@fatih_yildizli-black?style=flat-square&labelColor=white&logo=medium&logoColor=black&link=https://medium.com/@fatih_yildizli" style="max-width:100%;"></a>  
